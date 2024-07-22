@@ -1,0 +1,12 @@
+# Python Virtual Environment
+backend/.venv
+
+# Node Modules
+frontend/node_modules
+
+
+# Linux 
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
