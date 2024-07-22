@@ -8,6 +8,7 @@
 First Download the repository.\
 Open it and then run: `docker compose up`.\
 ** You should have docker installed on your device.
-
+## Using the app:
+  Go to: http://localhost:5175 in your browser to see the app.
 
 
